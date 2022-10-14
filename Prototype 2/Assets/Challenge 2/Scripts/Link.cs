@@ -8,7 +8,7 @@ public class Link : MonoBehaviour
 	public void OpenLinkJSPlugin()
 	{
 		#if !UNITY_EDITOR
-		openWindow("https://www.youtube.com/channel/UCmZ3eXwjxlya5ZJGoX3hZ-Q");
+		openWindow("https://github.com/ShaneCruiseClare/Challenge2");
 		#endif
 	}
 
